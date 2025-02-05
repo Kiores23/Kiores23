@@ -1,8 +1,11 @@
 # 👾 Bienvenue sur mon GitHub !
 
-Salut, moi c'est **Alexis**, passionné par le **développement de jeux vidéo** et la **programmation créative**.  
-J'expérimente avec **C++, SFML, Unity, Unreal Engine** et d'autres outils pour concevoir des **expériences immersives**.  
-Ici, tu trouveras des projets liés au **gameplay, aux graphismes et aux moteurs de jeu**.  
+Salut, moi c'est Alexis.  
+
+Créer des jeux, sous toutes leurs formes, est au cœur de ce que j’aime faire.  
+
+Je suis toujours en quête d’expérimentations, que ce soit pour des jeux vidéo, des prototypes interactifs ou d’autres expériences ludiques.  
+Côté professionnel, j’ai choisi de devenir développeur spécialisé en jeux vidéo, en explorant les moteurs graphiques, la programmation orientée objet, et les outils qui permettent de transformer une idée en un projet abouti.
 
 ---
 
@@ -37,20 +40,9 @@ Ici, tu trouveras des projets liés au **gameplay, aux graphismes et aux moteurs
 
 ---
 
-## 📌 Projets en avant  
-
-🔹 **[Mon jeu SFML](#)** – Un projet en C++ avec un gameplay dynamique.  
-🔹 **[Prototype en Unity](#)** – Expérimentations avec Unity et les mécaniques de jeu.  
-🔹 **[Projet TI-83](#)** – Un jeu codé en TI-BASIC pour calculatrice.  
-
-*D'autres projets sont en cours de développement !*  
-
----
-
 ## 📊 GitHub Stats  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kiores23&show_icons=true&theme=radical)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiores23&layout=compact&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kiores23&show_icons=true&theme=radical)
 
 ---
 
@@ -60,4 +52,5 @@ Ici, tu trouveras des projets liés au **gameplay, aux graphismes et aux moteurs
 
 ---
 
-💡 **Actuellement en train d'explorer de nouvelles idées et de tester des concepts liés au développement de jeux vidéo.** 🎮
+💡 **Mon projet actuel : The Necromancer's Tower.**  
+Développé en C++ avec SFML sur Windows, c’est l’adaptation en jeu vidéo d’un jeu de rôle que je crée avec un ami.
