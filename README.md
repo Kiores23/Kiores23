@@ -8,6 +8,12 @@ Je suis toujours en quête d’expérimentations, que ce soit pour des jeux vid�
 Côté professionnel, j’ai choisi de devenir développeur spécialisé en jeux vidéo, en explorant les moteurs graphiques, la programmation orientée objet, et les outils qui permettent de transformer une idée en un projet abouti.
 
 ---
+## 📌 Projet
+
+💡 **Mon projet actuel : The Necromancer's Tower.**  
+Développé en C++ avec SFML sur Windows, c’est l’adaptation en jeu vidéo d’un jeu de rôle que je crée avec un ami.
+
+---
 
 ## 🛠️ Technologies & Outils  
 
@@ -49,8 +55,3 @@ Côté professionnel, j’ai choisi de devenir développeur spécialisé en jeux
 ## 📬 Où me trouver ?  
 📧 **Email** : alexis.dmery@gmail.com   
 🌐 **Portfolio** : à venir...  
-
----
-
-💡 **Mon projet actuel : The Necromancer's Tower.**  
-Développé en C++ avec SFML sur Windows, c’est l’adaptation en jeu vidéo d’un jeu de rôle que je crée avec un ami.
